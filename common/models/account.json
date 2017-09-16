@@ -17,6 +17,10 @@
     "nickname": {
       "type": "string"
     },
+    "email": {
+      "type": "string",
+      "required": false
+    },
     "username": {
       "type": "string"
     },
