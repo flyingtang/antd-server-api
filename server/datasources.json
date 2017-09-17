@@ -5,7 +5,7 @@
     "url": "",
     "database": "antd",
     "password": "",
-    "name": "mongdo",
+    "name": "db",
     "user": "",
     "connector": "mongodb"
   }
